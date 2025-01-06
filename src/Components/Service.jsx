@@ -13,7 +13,7 @@ const Service = () => {
         {/* Vito Aracı */}
         <div className="flex flex-col items-center w-full sm:w-[300px] md:w-[350px]">
           <img
-            src="/public/vito.jpg"
+            src="/vito.jpg"
             alt="vip foto"
             className="w-full h-64 sm:h-72 object-cover rounded-lg shadow-md"
           />
@@ -25,7 +25,7 @@ const Service = () => {
         {/* Ducato Minibüs */}
         <div className="flex flex-col items-center w-full sm:w-[300px] md:w-[650px]">
           <img
-            src="/public/ducatominibus_1583937537.png"
+            src="/ducatominibus_1583937537.png"
             alt="vip foto"
             className="w-full h-64 sm:h-72 object-cover rounded-lg shadow-md bg-white"
           />
@@ -38,7 +38,7 @@ const Service = () => {
         {/* Midibüs */}
         <div className="flex flex-col items-center w-full sm:w-[300px] md:w-[400px]">
           <img
-            src="/public/midibüs.webp"
+            src="/midibüs.webp"
             alt="vip foto"
             className="w-full h-64 sm:h-72 object-cover rounded-lg shadow-md"
           />

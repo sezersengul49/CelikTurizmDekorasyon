@@ -7,7 +7,7 @@ const OurCarsPage = () => {
         {/* İlk Araç */}
         <div className="bg-white p-8 rounded-lg shadow-md">
           <img
-            src="/public/vito.jpg"
+            src="/vito.jpg"
             alt="Mercedes Benz"
             className="w-full h-64 object-cover rounded-md mb-6"
           />
@@ -28,7 +28,7 @@ const OurCarsPage = () => {
         {/* İkinci Araç */}
         <div className="bg-white p-8 rounded-lg shadow-md">
           <img
-            src="/public/2021-Volkswagen-Crafter-kampanyası.jpg"
+            src="/2021-Volkswagen-Crafter-kampanyası.jpg"
             alt="Volkswagen Crafter"
             className="w-full h-64 object-cover rounded-md mb-6"
           />
@@ -49,7 +49,7 @@ const OurCarsPage = () => {
         {/* Üçüncü Araç */}
         <div className="bg-white p-8 rounded-lg shadow-md">
           <img
-            src="/public/Transit-minibüs-webp.webp"
+            src="/Transit-minibüs-webp.webp"
             alt="Ford Transit"
             className="w-[350px] h-[250px] object-cover rounded-md mb-6"
           />
@@ -70,7 +70,7 @@ const OurCarsPage = () => {
         {/* Dördüncü Araç */}
         <div className="bg-white p-8 rounded-lg shadow-md">
           <img
-            src="/public/toyotaa.webp"
+            src="/toyotaa.webp"
             alt="Toyota Hiace"
             className="w-full h-64 object-cover rounded-md mb-6"
           />

@@ -14,7 +14,7 @@ const Alanlar = () => {
         <Link to={"/services"}>
         <img
           className="w-full h-48 object-cover border border-gray-400 rounded-md"
-          src="/public/servismobile.png"
+          src="/servismobile.png"
           alt="Okul Servisi"
         />
         </Link>
@@ -29,7 +29,7 @@ const Alanlar = () => {
         <Link to={"/services"}>
         <img
           className="w-full h-48 object-cover border border-gray-700 rounded-md"
-          src="/public/pers.png"
+          src="/pers.png"
           alt="İş Yeri Servisi"
         />
         </Link>
@@ -44,7 +44,7 @@ const Alanlar = () => {
         <Link to={"/services"}>
         <img
           className="w-full h-48 object-cover border border-gray-700 rounded-md"
-          src="/public/turizm.jpg"
+          src="/turizm.jpg"
           alt="Turizm Hizmeti"
         /></Link>
       </div>
@@ -60,7 +60,7 @@ const Alanlar = () => {
         <Link to={"/services"}>
         <img
           className="w-full h-48 object-cover border border-gray-700 rounded-md"
-          src="/public/fuar.jpg"
+          src="/fuar.jpg"
           alt="Fuar Hizmeti"
         />
         </Link>

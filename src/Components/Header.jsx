@@ -14,7 +14,7 @@ const Header = () => {
          <Link to={"/"}>
         <img
           className="w-12 h-auto object-contain md:w-16"
-          src="/public/logo.jpeg"
+          src="/logo.jpeg"
           alt="Logo"
         />
         </Link>

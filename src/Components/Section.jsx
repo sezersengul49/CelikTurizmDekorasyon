@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 
 const Section = () => {
   const images = [
-    "/public/ogrenci.jpeg",
-    "/public/okulb.jpeg",
-    "/public/araba.1jpg.jpg",
+    "/ogrenci.jpeg",
+    "/okulb.jpeg",
+    "/araba.1jpg.jpg",
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);

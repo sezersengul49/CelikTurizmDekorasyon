@@ -6,7 +6,7 @@ const ServicesPage = () => {
       {/* Okul Servisleri */}
       <div className="mb-12 flex flex-col lg:flex-row items-center lg:space-x-8">
         <div className="lg:w-1/2 mb-6 lg:mb-0">
-          <img className="w-[600px] h-[400px] object-cover rounded-lg shadow-lg" src="/public/servismobile.png" alt="Okul Servisi" />
+          <img className="w-[600px] h-[400px] object-cover rounded-lg shadow-lg" src="/servismobile.png" alt="Okul Servisi" />
         </div>
         <div className="lg:w-1/2">
           <h1 className="text-3xl font-extrabold text-gray-800 mb-4">Okul Servisleri</h1>
@@ -19,7 +19,7 @@ const ServicesPage = () => {
       {/* İş Yeri Servisleri */}
       <div className="mb-12 flex flex-col lg:flex-row-reverse items-center lg:space-x-8">
         <div className="lg:w-1/2 mb-6 lg:mb-0">
-          <img className="w-[600px] h-[400px]  object-cover rounded-lg shadow-lg" src="/public/pers.png" alt="İş Yeri Servisi" />
+          <img className="w-[600px] h-[400px]  object-cover rounded-lg shadow-lg" src="/pers.png" alt="İş Yeri Servisi" />
         </div>
         <div className="lg:w-1/2">
           <h1 className="text-3xl font-extrabold text-gray-800 mb-4">İş Yeri Servisleri</h1>
@@ -32,7 +32,7 @@ const ServicesPage = () => {
       {/* Turizm Hizmetleri */}
       <div className="mb-12 flex flex-col lg:flex-row items-center lg:space-x-8">
         <div className="lg:w-1/2 mb-6 lg:mb-0">
-          <img className="w-[600px] h-[400px] object-cover rounded-lg shadow-lg" src="/public/turizm.jpg" alt="Turizm Hizmetleri" />
+          <img className="w-[600px] h-[400px] object-cover rounded-lg shadow-lg" src="/turizm.jpg" alt="Turizm Hizmetleri" />
         </div>
         <div className="lg:w-1/2">
           <h1 className="text-3xl font-extrabold text-gray-800 mb-4">Turizm Hizmetleri</h1>
@@ -45,7 +45,7 @@ const ServicesPage = () => {
       {/* Fuar ve Kongre Hizmetleri */}
       <div className="mb-12 flex flex-col lg:flex-row-reverse items-center lg:space-x-8">
         <div className="lg:w-1/2 mb-6 lg:mb-0">
-          <img className="w-[600px] h-[400px] object-cover rounded-lg shadow-lg" src="/public/fuar.jpg" alt="Fuar ve Kongre Hizmetleri" />
+          <img className="w-[600px] h-[400px] object-cover rounded-lg shadow-lg" src="/fuar.jpg" alt="Fuar ve Kongre Hizmetleri" />
         </div>
         <div className="lg:w-1/2">
           <h1 className="text-3xl font-extrabold text-gray-800 mb-4">Fuar ve Kongre Hizmetleri</h1>
