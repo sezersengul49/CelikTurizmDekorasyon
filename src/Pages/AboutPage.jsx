@@ -12,7 +12,7 @@ const AboutPage = () => {
         {/* İçerik */}
         <p className="text-gray-700 text-lg leading-relaxed mb-6">
           1999 yılında bireysel olarak başladığımız turizm ve taşımacılık
-          sektöründeki ilerleyişimizi, 2004 yılında kurumsallaşarak resmi bir
+          sektöründeki ilerleyişimizi, 2003 yılında kurumsallaşarak resmi bir
           konuma dönüştürdük. Her geçen gün kurumsallık anlayışımızı ilerleterek
           Çelik Turizm Dekorasyon olarak Turizm Taşımacılığı için gerekli tüm evraklara
           sahip durumdayız. Araçlarımızın tamamı yüksek modelli, bakımları

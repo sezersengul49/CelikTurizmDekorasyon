@@ -137,10 +137,10 @@ const ContactPage = () => {
           </h2>
           <ul className="space-y-4 text-gray-700">
             <li>
-              <strong>Adres:</strong> Ziya Gökalp Mahallesi Şehit Cahar Dudayev Caddesi No:10 Başakşehir / İSTANBUL
+              <strong>Adres:</strong> Ziya Gökalp Mahallesi Ayazma Emlak Konutları A Blok No: 5 Başakşehir / İSTANBUL
             </li>
             <li>
-              <strong>Tel:</strong> 0216 470 05 15 - <strong>Fax:</strong> 0216 470 05 15
+              <strong>Tel:</strong> 0533 038 71 00 
             </li>
             <li>
               <strong>Cep:</strong> 0532 428 13 49 (Turgut Çelik)
